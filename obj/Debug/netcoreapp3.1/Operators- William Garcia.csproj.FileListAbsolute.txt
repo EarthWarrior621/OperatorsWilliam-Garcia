@@ -1,0 +1,13 @@
+C:\Users\william.garcia\source\repos\Operators- William Garcia\bin\Debug\netcoreapp3.1\Operators- William Garcia.exe
+C:\Users\william.garcia\source\repos\Operators- William Garcia\bin\Debug\netcoreapp3.1\Operators- William Garcia.deps.json
+C:\Users\william.garcia\source\repos\Operators- William Garcia\bin\Debug\netcoreapp3.1\Operators- William Garcia.runtimeconfig.json
+C:\Users\william.garcia\source\repos\Operators- William Garcia\bin\Debug\netcoreapp3.1\Operators- William Garcia.runtimeconfig.dev.json
+C:\Users\william.garcia\source\repos\Operators- William Garcia\bin\Debug\netcoreapp3.1\Operators- William Garcia.dll
+C:\Users\william.garcia\source\repos\Operators- William Garcia\bin\Debug\netcoreapp3.1\Operators- William Garcia.pdb
+C:\Users\william.garcia\source\repos\Operators- William Garcia\obj\Debug\netcoreapp3.1\Operators- William Garcia.csproj.AssemblyReference.cache
+C:\Users\william.garcia\source\repos\Operators- William Garcia\obj\Debug\netcoreapp3.1\Operators- William Garcia.AssemblyInfoInputs.cache
+C:\Users\william.garcia\source\repos\Operators- William Garcia\obj\Debug\netcoreapp3.1\Operators- William Garcia.AssemblyInfo.cs
+C:\Users\william.garcia\source\repos\Operators- William Garcia\obj\Debug\netcoreapp3.1\Operators- William Garcia.csproj.CoreCompileInputs.cache
+C:\Users\william.garcia\source\repos\Operators- William Garcia\obj\Debug\netcoreapp3.1\Operators- William Garcia.dll
+C:\Users\william.garcia\source\repos\Operators- William Garcia\obj\Debug\netcoreapp3.1\Operators- William Garcia.pdb
+C:\Users\william.garcia\source\repos\Operators- William Garcia\obj\Debug\netcoreapp3.1\Operators- William Garcia.genruntimeconfig.cache
